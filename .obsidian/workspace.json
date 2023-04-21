@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "bfa8c45edb80525c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f768d9c0ac38e69e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9746cfb30118f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "入门/软件/JetBrains/破解 IDEA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c4bd517e208a3ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "b721c0387cc14d75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d8e019c92b99930",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1693750caad6d652",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8bf599cead4f5dbb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "right": {
+    "id": "7834cd50c8078078",
+    "type": "split",
+    "children": [
+      {
+        "id": "18b8bf6d62e38078",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "342f4cf6547cd7d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "入门/软件/JetBrains/破解 IDEA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67e38f7d3fed8a26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "入门/软件/JetBrains/破解 IDEA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01eff9ff05320f17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ab99560b6e4adbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "入门/软件/JetBrains/破解 IDEA.md"
+              }
+            }
+          },
+          {
+            "id": "748adca9fbdd0552",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a9746cfb30118f25",
+  "lastOpenFiles": [
+    "入门/软件/JetBrains/破解 IDEA.html",
+    "生活/Friend/RH/RH.md",
+    "生活/Friend/XiaoEr/XiaoEr.md",
+    "生活/Friend/RHF/RHF.md",
+    "生活/Friend/Jack/Jack.md",
+    "模板/Friend_Template.md",
+    "生活/Friend/XiaoEr",
+    "生活/Friend/Jack",
+    "学习/哔哩哔哩/黑马程序员/Python/Python 基础.md",
+    "生活/Friend/RHF",
+    "生活/Friend/RH",
+    "生活/Friend",
+    "生活",
+    "学习/哔哩哔哩/黑马程序员/Python/Python 进阶.md",
+    "学习/哔哩哔哩/尚硅谷/Git 的基本使用 2023 版.md",
+    "学习/哔哩哔哩/尚硅谷/IDEA 的使用 2023 版.md",
+    "入门/技术/Git/GitHubDesktop 的基本使用.md",
+    "入门/技术/Git/Git 入门.md",
+    "入门/技术/Git/Git 常用命令.md",
+    "入门/软件/JetBrains/IDEA.md",
+    "模板/README_Template.md",
+    "入门/技术/Docker/Docker 常用命令与基本使用.md",
+    "入门/技术/Docker/Docker入门.md",
+    "入门/技术/Docker/使用Docker安装常用服务.md",
+    "入门/技术/Docker/使用 Docker容器配置 MySQL 主从数据库.md",
+    "Day/日记/2023-04-16.md",
+    "Day/日记/2023-04-17.md",
+    "入门/技术/Github/Nvm 的安装与使用.md",
+    "入门/技术/Docsify/Docsify 入门.md",
+    "入门/技术/Github",
+    "入门/技术/Docsify",
+    "学习/哔哩哔哩/黑马程序员/黑马程序员.md",
+    "入门/技术/Python/Python 工程组织结构.md",
+    "入门/技术/Python",
+    "学习/哔哩哔哩/黑马程序员/Python",
+    "地址.md",
+    "Pasted image 20230416192219.png"
+  ]
+}
