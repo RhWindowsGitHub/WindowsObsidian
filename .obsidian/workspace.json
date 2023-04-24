@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f768d9c0ac38e69e",
+        "id": "dfb0916e190c05ec",
         "type": "tabs",
         "children": [
           {
-            "id": "a9746cfb30118f25",
+            "id": "58d3653c391cfc2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "入门/软件/JetBrains/破解 IDEA.md",
+                "file": "入门/技术/Docker/使用Docker安装常用服务.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "入门/软件/JetBrains/破解 IDEA.md",
+                "file": "入门/技术/Docker/使用Docker安装常用服务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "入门/软件/JetBrains/破解 IDEA.md",
+                "file": "入门/技术/Docker/使用Docker安装常用服务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "入门/软件/JetBrains/破解 IDEA.md"
+                "file": "入门/技术/Docker/使用Docker安装常用服务.md"
               }
             }
           },
@@ -155,44 +155,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9746cfb30118f25",
+  "active": "58d3653c391cfc2b",
   "lastOpenFiles": [
-    "入门/软件/JetBrains/破解 IDEA.html",
+    "学习/哔哩哔哩/黑马程序员/Python/Python 基础.md",
+    "入门/技术/Docsify/Docsify 入门.md",
+    "学习/哔哩哔哩/青空の霞光",
+    "学习/哔哩哔哩/尚硅谷/IDEA 的使用 2023 版.md",
+    "入门/软件/Nvm/Nvm 的安装与使用.md",
+    "入门/软件/Navicat/破解 Navicat.md",
+    "入门/技术/Maven/Maven 的配置.md",
+    "入门/软件/Picgo/使用 Picgo 搭建图床.md",
+    "入门/软件/Nvm",
+    "入门/软件/JetBrains/通用配置.md",
+    "入门/软件/JetBrains/破解 IDEA.md",
+    "入门/软件/JetBrains/IDEA.md",
+    "入门/软件/JetBrains/PyCharm.md",
+    "Pasted image 20230422030245.png",
+    "资源/dev/Navicat/NavicatCracker.md",
+    "资源/dev/IDEA/IDEA ja-netfilter.md",
+    "资源/dev/Navicat/NavicatCracker/NavicatCracker.7z",
+    "资源/dev/Navicat/NavicatCracker",
+    "资源/dev/Navicat/新建文件夹",
+    "Day/日记/2023-04-21.md",
+    "入门/技术/COS技术/COS 对象存储技术.md",
+    "入门/技术/COS技术",
+    "入门/技术/Docker/使用Docker安装常用服务.md",
+    "资源/dev/docker/Redis 配置文件.md",
+    "模板/TODO_Template.md",
+    "模板/README_Template.md",
+    "模板/MD_Template.md",
+    "模板/Friend_Template.md",
+    "模板/DayLog_Template.md",
+    "入门/软件/Picgo",
+    "入门/技术/Maven",
+    "资源/dev/Navicat/NavicatCracker.7z",
+    "资源/dev/Navicat/NavicatCracker.zip",
     "生活/Friend/RH/RH.md",
     "生活/Friend/XiaoEr/XiaoEr.md",
     "生活/Friend/RHF/RHF.md",
     "生活/Friend/Jack/Jack.md",
-    "模板/Friend_Template.md",
-    "生活/Friend/XiaoEr",
-    "生活/Friend/Jack",
-    "学习/哔哩哔哩/黑马程序员/Python/Python 基础.md",
-    "生活/Friend/RHF",
-    "生活/Friend/RH",
-    "生活/Friend",
-    "生活",
-    "学习/哔哩哔哩/黑马程序员/Python/Python 进阶.md",
-    "学习/哔哩哔哩/尚硅谷/Git 的基本使用 2023 版.md",
-    "学习/哔哩哔哩/尚硅谷/IDEA 的使用 2023 版.md",
-    "入门/技术/Git/GitHubDesktop 的基本使用.md",
-    "入门/技术/Git/Git 入门.md",
-    "入门/技术/Git/Git 常用命令.md",
-    "入门/软件/JetBrains/IDEA.md",
-    "模板/README_Template.md",
-    "入门/技术/Docker/Docker 常用命令与基本使用.md",
-    "入门/技术/Docker/Docker入门.md",
-    "入门/技术/Docker/使用Docker安装常用服务.md",
-    "入门/技术/Docker/使用 Docker容器配置 MySQL 主从数据库.md",
-    "Day/日记/2023-04-16.md",
-    "Day/日记/2023-04-17.md",
-    "入门/技术/Github/Nvm 的安装与使用.md",
-    "入门/技术/Docsify/Docsify 入门.md",
-    "入门/技术/Github",
-    "入门/技术/Docsify",
-    "学习/哔哩哔哩/黑马程序员/黑马程序员.md",
-    "入门/技术/Python/Python 工程组织结构.md",
-    "入门/技术/Python",
-    "学习/哔哩哔哩/黑马程序员/Python",
-    "地址.md",
     "Pasted image 20230416192219.png"
   ]
 }
